@@ -1,6 +1,8 @@
 # Helados e Idiomas - A Language Learning Webapp Created with AI
 
 Welcome to Helados e Idiomas, a language learning webapp created with the help of AI! This webapp is not designed to help users learn new languages but only as a test of what GPT 3.5 can generate from a conversation with a non-programmer.
+
+For more context you can <a href="https://mirror.xyz/eiberman.eth/7THOnuvoLFiWw1UdfgrIj6Lbbg8GFOanr6pVKGnDCyg">read about it in this article </a>
 ![Screen Shot 2023-04-11 at 17 20 46](https://user-images.githubusercontent.com/111464261/231279421-1227f654-571b-4dd7-8c9d-128cff8ce992.png)
 
 ## Getting Started
