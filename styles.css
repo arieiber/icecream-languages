@@ -1,0 +1,69 @@
+/* Estilos para la página web */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+/* Estilos para el encabezado de la página */
+header {
+    background-color: #4a4a4a;
+    color: #fff;
+    padding: 1rem;
+}
+
+/* Estilos para el título de la página */
+h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+/* Estilos para el contenido principal de la página */
+.main {
+    padding: 2rem;
+}
+
+/* Estilos para el contenedor de selección de idiomas y países */
+.language-selection {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilos para el título del contenedor de selección de idiomas y países */
+.language-selection h2 {
+    font-size: 2rem;
+    margin-top: 0;
+}
+
+/* Estilos para el elemento select de selección de idiomas y países */
+#language-select {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+/* Agregar un borde a las imágenes */
+img {
+    border: 2px solid black;
+}
+
+/* Cambiar el tamaño de la fuente de los títulos y las frases */
+h3, p {
+    font-size: 20px;
+}
+/* Ordernar la cantidad de opciones por fila */
+.word-options {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+/* Ordernar la cantidad de opciones por fila */
+.word-option {
+    flex-basis: calc(33.33% - 20px);
+    margin-bottom: 20px;
+    flex-grow: 1;
+}
